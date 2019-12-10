@@ -1,0 +1,32 @@
+Script started on Sat 16 Feb 2019 03:00:39 PM PST
+]0;cs1c@cs1c-VirtualBox ~/Documents/CS1C/HW6[01;32mcs1c@cs1c-VirtualBox[00m [01;34m~/Documents/CS1C/HW6 $[00m hw[K[Kdate
+Sat Feb 16 15:00:44 PST 2019
+]0;cs1c@cs1c-VirtualBox ~/Documents/CS1C/HW6[01;32mcs1c@cs1c-VirtualBox[00m [01;34m~/Documents/CS1C/HW6 $[00m ls -l
+total 60
+-rwxrwxr-x 1 cs1c cs1c 51840 Feb 16 14:58 [0m[01;32mhw06[0m
+-rw-rw-r-- 1 cs1c cs1c  3530 Feb 16 14:12 HW6.cpp
+-rw-rw-r-- 1 cs1c cs1c     0 Feb 16 15:00 HW6.scr
+-rw-rw-r-- 1 cs1c cs1c    54 Feb 15 19:07 Makefile
+]0;cs1c@cs1c-VirtualBox ~/Documents/CS1C/HW6[01;32mcs1c@cs1c-VirtualBox[00m [01;34m~/Documents/CS1C/HW6 $[00m make all
+g++ -g -Wall HW6.cpp -o hw06
+]0;cs1c@cs1c-VirtualBox ~/Documents/CS1C/HW6[01;32mcs1c@cs1c-VirtualBox[00m [01;34m~/Documents/CS1C/HW6 $[00m .[Kls -l
+total 60
+-rwxrwxr-x 1 cs1c cs1c 51840 Feb 16 15:00 [0m[01;32mhw06[0m
+-rw-rw-r-- 1 cs1c cs1c  3530 Feb 16 14:12 HW6.cpp
+-rw-rw-r-- 1 cs1c cs1c     0 Feb 16 15:00 HW6.scr
+-rw-rw-r-- 1 cs1c cs1c    54 Feb 15 19:07 Makefile
+]0;cs1c@cs1c-VirtualBox ~/Documents/CS1C/HW6[01;32mcs1c@cs1c-VirtualBox[00m [01;34m~/Documents/CS1C/HW6 $[00m ./hw05[K6
+stop
+exit
+
+
+zyxwvutsrqponmlkjihgfedcba
+
+Extra path:
+abcdefghijklmnopqrstuvwxyz
+abcdefghijklmnopqrstuvwxyz
+zyxwvutsrqponmlkjihgfedcba
+]0;cs1c@cs1c-VirtualBox ~/Documents/CS1C/HW6[01;32mcs1c@cs1c-VirtualBox[00m [01;34m~/Documents/CS1C/HW6 $[00m stop[K[K[K[Kexit
+exit
+
+Script done on Sat 16 Feb 2019 03:08:28 PM PST
